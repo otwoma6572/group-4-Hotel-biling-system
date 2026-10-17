@@ -1,4 +1,4 @@
-package restaurant.model;
+gitpackage restaurant.model;
 
 import restaurant.exception.InvalidOrderException;
 import restaurant.exception.ItemNotFoundException;
